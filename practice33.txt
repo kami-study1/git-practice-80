@@ -1,2 +1,3 @@
 git fetch テスト
-pushしたあとに、fetchしてみる
+#pushしたあとに、fetchしてみる
+上記の文章を削除してみる
