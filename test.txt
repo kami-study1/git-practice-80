@@ -1,2 +1,1 @@
-test.txt
-hogehoge
+犬が好き
